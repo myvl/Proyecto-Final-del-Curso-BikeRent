@@ -1,0 +1,3 @@
+Cliente ID: 3, Total alquileres: 1, Total pago: $20.0
+Cliente ID: 2, Total alquileres: 1, Total pago: $12.0
+Cliente ID: 1, Total alquileres: 1, Total pago: $25.0

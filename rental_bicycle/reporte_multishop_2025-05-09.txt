@@ -1,0 +1,4 @@
+ID Tienda,Nombre Contacto,Ubicación
+1,Juan Pérez,Tienda Centro
+2,María Gómez,Tienda Norte
+3,Carlos Ruiz,Tienda Sur

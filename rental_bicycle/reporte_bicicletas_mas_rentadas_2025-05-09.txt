@@ -1,0 +1,3 @@
+Bicicleta ID: 2, Rentas: 1, Detalles: Bicicleta urbana, azul, talla L
+Bicicleta ID: 1, Rentas: 1, Detalles: Bicicleta de montaña, roja, talla M
+Bicicleta ID: 3, Rentas: 1, Detalles: Bicicleta de carretera, negra, talla S

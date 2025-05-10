@@ -1,0 +1,2 @@
+Tienda: Tienda Centro (ID: 1), Ingresos: $37.0
+Tienda: Tienda Norte (ID: 2), Ingresos: $10.0

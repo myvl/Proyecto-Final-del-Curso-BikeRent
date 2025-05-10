@@ -1,0 +1,6 @@
+ID Bicicleta,Detalles
+1,Bicicleta de montaña, roja, talla M
+2,Bicicleta urbana, azul, talla L
+3,Bicicleta de carretera, negra, talla S
+4,Bicicleta híbrida, verde, talla M
+5,Bicicleta plegable, gris, talla única

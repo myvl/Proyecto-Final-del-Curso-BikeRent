@@ -1,0 +1,6 @@
+ID Método,ID Renter,Código,Descripción,Detalles Tarjeta
+1,1,VISA,Tarjeta Visa,****-****-****-1234
+2,1,CASH,Efectivo,null
+3,2,MC,MasterCard,****-****-****-5678
+4,3,AMEX,American Express,****-****-****-9012
+5,3,PAYPAL,PayPal,cliente3@email.com
