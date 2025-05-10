@@ -1,5 +1,5 @@
 🚴‍♂️ BikeRent Manager – Sistema Integral de Alquiler de Bicicletas
-BikeRent Manager es una aplicación de escritorio desarrollada en Java Swing, conectada a una base de datos PostgreSQL. Su objetivo es facilitar la gestión operativa y administrativa de un negocio de alquiler de bicicletas.
+BikeRent Manager es una aplicación de escritorio desarrollada en Java Swing con conexión a PostgreSQL, diseñada para administrar de forma eficiente un negocio de alquiler de bicicletas. El sistema abarca la gestión de datos maestros, procesos operativos y generación de reportes, integrando toda la operación del negocio en una sola plataforma.
 
 Características principales:
 📦 Gestión de inventario de bicicletas por tienda.
@@ -13,6 +13,16 @@ Características principales:
 💾 Funciones de respaldo y restauración de la base de datos.
 
 🔐 Interfaz gráfica intuitiva con paneles modulares para cada proceso.
+
+Procesos Operativos
+
+Registro de Alquileres (Rentals): Asociación de bicicletas con clientes y fechas de alquiler.
+
+Devoluciones: Cálculo automático del tiempo de uso y estado del equipo.
+
+Validaciones: Disponibilidad, duplicados, restricciones de datos.
+
+Transacciones seguras: Uso de bloques transaccionales para evitar inconsistencias.
 
 Estructura del sistema:
 Base de datos relacional normalizada con tablas como Multi_Shop, Bicycles, Rentals, Renters, entre otras.
